@@ -19,9 +19,11 @@ node Problem-4.js
     - Implemented a Calculator class with methods for Addition, Subtraction, Multiplication and Division.
     - Used a switch - statement to select the operation.
 2. Problem-2: With a single integer as the input, generate the following until a = x [series of numbers as shown in below examples]
-    - Used forloop for iterating and if-condition for find odd
+    - Used forloop for iterating 
+    - if-condition for find odd
 3. Problem-3: With a single integer as the input, generate the following until a = x [series of numbers as shown in below examples]
-    - Used forloop for terating and if-condition for find odd
+    - Used forloop for iterating 
+    - if-condition for find odd
 4. Problem-4: Get the total count of number listed in the array which is multiple of [1,2,3,4,5,6,7,8,9]
     - Used a loop to iterate through numbers 1 to 9.
     - For each number, counted how many values in the array are divisible by it.
